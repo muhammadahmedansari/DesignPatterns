@@ -1,0 +1,1 @@
+The Factory Design Pattern is a creational pattern that provides a way to delegate the instantiation logic to child classes or a centralized factory class. It's useful when the client code needs to create objects without knowing the exact class of object that will be created.
